@@ -18,5 +18,5 @@
     - playlist video
     - xem profile
     - search theo tag
-    - update
+    
 
